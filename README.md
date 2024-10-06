@@ -29,12 +29,10 @@
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <a href="https://github.com/Yu7ioi"><img src="https://img.shields.io/badge/GitHub-Yu7ioi-blue?logo=github" /></a>
-<a href="https://gitee.com/Yu7ioi"><img src="https://img.shields.io/badge/Gitee-Xiaokang2022-blue?logo=gitee" /></a>
-<a href="https://space.bilibili.com/498105668"><img src="https://img.shields.io/badge/哔哩哔哩-程苗苗-pink?logo=bilibili" /></a>
-<a href="https://wakatime.com/@Xiaokang2022"><img src="https://wakatime.com/badge/user/67677d2a-fdc6-4c21-a964-b5477332bc69.svg" /></a>
+<a href="https://gitee.com/Yu7ioi"><img src="https://img.shields.io/badge/Gitee-Yu7ioi-blue?logo=gitee" /></a>
+<a href="https://b23.tv/3vDGfWx"><img src="https://img.shields.io/badge/哔哩哔哩-程苗苗-pink?logo=bilibili" /></a>
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-<img src="https://komarev.com/ghpvc/?username=Xiaokang2022" />
-</p>
+
 
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
